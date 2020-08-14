@@ -1,0 +1,28 @@
+body{
+    background-color: royalblue;
+    text-align: center;
+
+}
+
+input{
+    margin: 10px;
+    padding: 5px;
+}
+
+all{
+    background-color: salmon;
+    height: 300px;
+    width: 100px;
+    margin: 50px;
+}
+
+ing{
+    height: 40px;
+    width: 30px;
+    padding: 1.5px;
+}
+
+button{
+    width: 250px;
+    padding: 10px;
+}
